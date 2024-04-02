@@ -31,8 +31,8 @@ This program utilizes a command-line interface to create colorful ASCII art by a
 ### Usage 
 
 1. To color specific letters or words in the input text:
-   ```bash
-   $ go run . [--color=color_name] [letters_to_be_colored] [TEXT]
+ ```bash
+$ go run . [--color=color_name] [letters_to_be_colored] [TEXT]
 
 Example 1:
 ```bash
